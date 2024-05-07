@@ -68,7 +68,7 @@ print(f"Profit = {value}")
 knapsack(value, weight, no_of_objects, capacity)
 
 
-
+# mannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
 # class Item:
 #     def __init__(self, weight, value):
 #         self.weight = weight
